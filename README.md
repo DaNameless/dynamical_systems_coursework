@@ -43,6 +43,6 @@ To run the simulations and code in this repository, you may need:
 - Various open-source dynamical systems libraries
 
 ## License
-This coursework is shared under the [MIT License](LICENSE), unless otherwise specified in particular files.
+This coursework is shared under the [MIT License](https://en.wikipedia.org/wiki/MIT_License), unless otherwise specified in particular files.
 
 For any questions, please contact: [rolando.sanchez@yachaytech.edu.ec]
