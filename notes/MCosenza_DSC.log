@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.12) (preloaded format=pdflatex 2025.4.10)  10 APR 2025 13:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.12) (preloaded format=pdflatex 2025.4.10)  10 APR 2025 14:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -999,41 +999,46 @@ Package marginnote Info: Using workaround for absolute page number on input line
 
 
 [1]
-Package marginnote Info: Margin note 4.1 is on absolute page 4 on input line 16.
-Package marginnote Info: right page because not two side mode on input line 16.
-Package marginnote Info: xpos seems to be 101.92578pt on input line 16.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <24.88> on input line 16.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <20.74> on input line 16.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 16.
-
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 44.
+ (/usr/local/share/miktex-texmf/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
 
 [1
 
-{/usr/local/share/miktex-texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/share/miktex-texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/share/miktex-texmf/fonts/enc/dvips/lm/lm-mathit.enc}]
-Package marginnote Info: Using workaround for absolute page number on input line 47.
- (MCosenza_DSC.aux)
+{/usr/local/share/miktex-texmf/fonts/enc/dvips/lm/lm-ts1.enc}]
+Package marginnote Info: Using workaround for absolute page number on input line 59.
+Package marginnote Info: Margin note 6.1 is on absolute page 6 on input line 62.
+Package marginnote Info: right page because not two side mode on input line 62.
+Package marginnote Info: xpos seems to be 101.92578pt on input line 62.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <24.88> on input line 62.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <20.74> on input line 62.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <17.28> on input line 62.
+
+
+[2{/usr/local/share/miktex-texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/share/miktex-texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/share/miktex-texmf/fonts/enc/dvips/lm/lm-mathit.enc}] (MCosenza_DSC.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `MCosenza_DSC.out' has not changed.
-(rerunfilecheck)             Checksum: 4CE19D639C348C8E74D59FD6BC84C428;334.
+(rerunfilecheck)             Checksum: 854B310DE9675ECE4BB0D53F3DD9E468;410.
  ) 
 Here is how much of TeX's memory you used:
- 31122 strings out of 473531
- 608560 string characters out of 5722064
+ 31177 strings out of 473531
+ 609767 string characters out of 5722064
  1106309 words of memory out of 5000000
- 53772 multiletter control sequences out of 15000+600000
- 691032 words of font info for 134 fonts, out of 8000000 for 9000
+ 53812 multiletter control sequences out of 15000+600000
+ 691397 words of font info for 135 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,15n,135p,675b,967s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/share/miktex-texmf/fonts/type1/public/lm/lmbx10.pfb></usr/local/share/miktex-texmf/fonts/type1/public/lm/lmbx12.pfb></usr/local/share/miktex-texmf/fonts/type1/public/lm/lmbx7.pfb></usr/local/share/miktex-texmf/fonts/type1/public/lm/lmmi10.pfb></usr/local/share/miktex-texmf/fonts/type1/public/lm/lmmi7.pfb></usr/local/share/miktex-texmf/fonts/type1/public/lm/lmr10.pfb></usr/local/share/miktex-texmf/fonts/type1/public/lm/lmr6.pfb></usr/local/share/miktex-texmf/fonts/type1/public/lm/lmr7.pfb></usr/local/share/miktex-texmf/fonts/type1/public/lm/lmr8.pfb></usr/local/share/miktex-texmf/fonts/type1/public/lm/lmri10.pfb></usr/local/share/miktex-texmf/fonts/type1/public/lm/lmri8.pfb></usr/local/share/miktex-texmf/fonts/type1/public/lm/lmri9.pfb></usr/local/share/miktex-texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/local/share/miktex-texmf/fonts/type1/public/lm/lmsy10.pfb></usr/local/share/miktex-texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on MCosenza_DSC.pdf (3 pages, 275783 bytes).
+Output written on MCosenza_DSC.pdf (4 pages, 296982 bytes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
- 29 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 153 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
+ 37 words of extra memory for PDF output out of 10000 (max. 10000000)
 

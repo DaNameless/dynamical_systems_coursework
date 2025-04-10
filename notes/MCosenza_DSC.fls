@@ -426,6 +426,11 @@ INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/lm/ec-lmbx12.tfm
 OUTPUT MCosenza_DSC.toc
 INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/lm/ec-lmr17.tfm
 INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/lm/ec-lmbx12.tfm
+INPUT /usr/local/share/miktex-texmf/tex/latex/lm/ts1lmr.fd
+INPUT /usr/local/share/miktex-texmf/tex/latex/lm/ts1lmr.fd
+INPUT /usr/local/share/miktex-texmf/tex/latex/lm/ts1lmr.fd
+INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/lm/ts1-lmr10.tfm
+INPUT /usr/local/share/miktex-texmf/fonts/enc/dvips/lm/lm-ts1.enc
 INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/lm/rm-lmr17.tfm
 INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/lm/rm-lmr17.tfm
 INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/lm/rm-lmr17.tfm
